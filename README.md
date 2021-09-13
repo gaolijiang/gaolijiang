@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gaolijiang
+- 👀 I’m interested in FPGA
+- 🌱 I’m currently learning fpga CAD
